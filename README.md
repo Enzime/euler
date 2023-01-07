@@ -1,3 +1,4 @@
-# Project Euler solutions in Rust
+# Project Euler solutions
 
-![Amount solved](https://projecteuler.net/profile/Enzime.png)
+![Amount solved in Rust](https://projecteuler.net/profile/Enzime.png)
+![Amount solved in APL](https://projecteuler.net/profile/APLzime.png)
